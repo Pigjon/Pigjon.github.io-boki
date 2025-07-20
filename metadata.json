@@ -1,0 +1,6 @@
+{
+  "name": "現代記帳App",
+  "description": "一個使用React和Tailwind CSS構建的現代化記帳應用程序，擁有乾淨、直觀的中文介面，可幫助您輕鬆追蹤收入和支出。",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
